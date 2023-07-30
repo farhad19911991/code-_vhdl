@@ -1,6 +1,6 @@
 THIS IS VHDL
   library ieee;
-
+ use ieee;
 this sen.
   .
   .
