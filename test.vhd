@@ -1,4 +1,5 @@
 THIS IS VHDL
+  library ieee;
 
 this sen.
   .
